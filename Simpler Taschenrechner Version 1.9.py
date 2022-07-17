@@ -12,6 +12,7 @@ while A == True:
         E = B - C
         print(F)
     if D == '*':
+        E = B * C
         print(F)
     if D == '/' or ':':
         E = B / C
